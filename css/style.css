@@ -325,7 +325,7 @@ button:hover {
 
 .tours {
     margin-top: 5px;
-    margin-left: 45%;
+    text-align: center;
 }
 
 /* end tours */
@@ -706,6 +706,7 @@ button:hover {
     margin-left: 120px;
     border-radius: 10px;
 }
+
 /* end search */
 
 /* Book */
